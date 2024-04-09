@@ -30,5 +30,13 @@
             <td>
             <a href="https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150">Remove Element</a>
             </td>
+        </tr> 
+        <tr>
+            <td>Leetcode</td>
+            <td>Easy</td>
+            <td>2024.04.10</td>
+            <td>
+            <a href="https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150">Merge Sorted Array</a>
+            </td>
         </tr>
 </table>
